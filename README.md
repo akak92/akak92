@@ -3,7 +3,7 @@
 I'm a software engineer with over 5 years of experience in application development, primarily focused on backend development.
 
 ### Contact me
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-diaz-sf/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-diaz-sf/)
 
 <!--
 **akak92/akak92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
