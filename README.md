@@ -2,8 +2,7 @@
 
 I'm a software engineer with over 5 years of experience in application development, primarily focused on backend development.
 
-## Contact me :)
----
+## Contact me 😊
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ## Languages / Frameworks and Tools ⚡
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
