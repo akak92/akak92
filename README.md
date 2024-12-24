@@ -4,7 +4,10 @@ I'm a software engineer with over 5 years of experience in application developme
 
 ### Contact me
 ---
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pedro-diaz-sf/)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/pedro-diaz-sf/)
+### Languages
+---
+
 
 <!--
 **akak92/akak92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
