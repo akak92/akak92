@@ -1,5 +1,7 @@
 ## Hi there 👋
-### Software Engineer
+
+I'm a software engineer with over 5 years of experience in application development, primarily focused on backend development.
+
 <!--
 **akak92/akak92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
