@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer with over 5 years of experience in application development, primarily focused on backend development.
+I'm a software engineer with over 5 years of experience, primarily focused on backend and ai development.
 
 ## Contact me 😊
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-diaz-sf)
