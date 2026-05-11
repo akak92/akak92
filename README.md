@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer with over 5 years of experience, primarily focused on backend and ai development.
+I'm a software engineer with over 6 years of experience, primarily focused on backend and ai development.
 
 ## Contact me 😊
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
